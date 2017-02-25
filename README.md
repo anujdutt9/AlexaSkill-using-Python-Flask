@@ -1,5 +1,5 @@
 # AlexaSkill-using-Python-Flask
-*This repository contains code for Alexa Skill using Python 3 and Flask.*
+*This repository contains Python Jupyter Notebook for Alexa Skill using Python 3 and Flask.*
 
 #Requirements
 1.**flask**
